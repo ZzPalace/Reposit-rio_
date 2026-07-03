@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+
+body {
+  background-color: rgba(57, 87, 92, 0.966);
+  margin: 0%;
+}
+
+#menu {
+  background-color: rgb(65, 65, 129);
+  width: 300px;
+  height: 700px;
+  text-align: center;
+  box-shadow: 15px 15px 1px rgb(28, 185, 112);
+  border-radius: 20%;
+  margin: 0.5rem;
+}
+
+
+.links1 {
+  text-decoration: none;
+  color: rgb(65, 160, 177);
+  font-size: 1.8rem;
+  display: block;
+  margin: 2rem 0;
+  transition: all 0.2s ease;
+  font-weight: bold;
+}
+
+.links1:hover {
+  color: rgb(71, 173, 88);
+  background-color: rgba(0, 0, 0, 0.137);
+  border-radius: 10%;
+  font-size: 1.9rem;
+  text-shadow: 40px 1px 1px rgba(54, 153, 87, 0.288);
+
+
+}
+
+.imagem {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 4px;
+  border-style: dashed;
+  border-color: rgb(0, 0, 0);
+  margin-top: 40px;
+  box-shadow: 5px 5px 5px rgba(62, 158, 113, 0.822);
+}
+
+h1 {
+  color: rgb(65, 160, 177);
+  text-shadow: 5px 6px 1px rgb(0, 0, 0);
+}
+
+h2 {
+  font-family: Pompiere, Fontdiner Swanky, Kristen ITC, Helvetica, Arial, sans-serif;
+  color: rgb(71, 173, 88);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+main {
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+header {
+  float: left;
+  margin-top: 15px;
+}
+
+#if2 {
+  background-color: aliceblue;
+  margin: 1rem 0.5rem 0.5rem 21rem;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.808);
+  transition: all 0.4s ease-in-out;
+}
+
+
+#if1 {
+  background-color: aliceblue;
+  margin: 1rem 1rem 0.5rem 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
+  width: 280px;
+  height: 280px;
+  border: 5px;
+  border-style: dashed;
+  border-color: rgba(50, 21, 97, 0.842);
+  transition: all 0.4s ease-in-out;
+}
+
+#if3 {
+  background-color: aliceblue;
+  margin: 1rem 1rem 0.5rem 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
+  width: 280px;
+  height: 280px;
+  border: 5px;
+  border-style: dashed;
+  border-color: rgba(50, 21, 97, 0.842);
+  transition: all 0.4s ease-in-out;
+}
+
+#if4 {
+  background-color: aliceblue;
+  margin: 1rem 1rem 0.5rem 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
+  width: 280px;
+  height: 280px;
+  border: 5px;
+  border-style: dashed;
+  border-color: rgba(50, 21, 97, 0.842);
+  transition: all 0.4s ease-in-out;
+}
+
+#if5 {
+  background-color: aliceblue;
+  margin: 1rem 1rem 0.5rem 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
+  width: 280px;
+  height: 280px;
+  border: 5px;
+  border-style: dashed;
+  border-color: rgba(50, 21, 97, 0.842);
+  transition: all 0.4s ease-in-out;
+}
+
+#if6 {
+  background-color: aliceblue;
+  margin: 1rem 1rem 0.5rem 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
+  width: 280px;
+  height: 280px;
+  border: 5px;
+  border-style: dashed;
+  border-color: rgba(50, 21, 97, 0.842);
+  transition: all 0.4s ease-in-out;
+}
+
+#if7 {
+  background-color: aliceblue;
+  margin: 1rem 1rem 0.5rem 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
+  width: 280px;
+  height: 280px;
+  border: 5px;
+  border-style: dashed;
+  border-color: rgba(50, 21, 97, 0.842);
+  transition: all 0.4s ease-in-out;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  clear: both;
+  font-size: 1.2rem;
+  background-color: rgba(75, 63, 131, 0.658);
+  color: aliceblue;
+}
+
+nav {
+  padding: 1rem;
+  margin-bottom: 20px;
+
+}
+
+#if1:hover,
+#if3:hover,
+#if4:hover,
+#if5:hover,
+#if6:hover,
+#if7:hover {
+  color: rgb(0, 0, 0);
+  font-size: 1.2rem;
+  width: 300px;
+
+}
+
+#foo {
+  background-color: rgba(0, 0, 0, 0.493);
+
+}
+
+.fm {
+  height: 40px;
+  transition: all 0.3s ease-in-out;
+  margin: 1rem;
+  transition: filter 0.5 ease;
+}
+
+.fm:hover {
+  height: 45px;
+  filter: invert(100%) drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.822));
+}
+
+
+.grafico {
+  background-color: rgb(255, 255, 255);
+  font-size: 1.3rem;
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+    height: 350px;
+    gap: 30px;
+}
+
+#g1 {
+  background-color: rgba(189, 185, 194, 0.822);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 80%;
+height: 50px;
+}
+
+#gi {
+  background-color: rgb(36, 163, 180);
+  width: 30%;
+  border-radius: 10px;
+  animation: barras2 1s ease-out forwards;
+  height: 50px;
+}
+
+
+#g2 {
+  background-color: rgba(189, 185, 194, 0.822);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 80%;
+  height: 50px;
+}
+
+
+#gi2 {
+  background-color: rgb(36, 180, 108);
+  width: 30%;
+  border-radius: 10px;
+  animation: barras2 1s ease-out forwards;
+  height: 50px;
+}
+
+
+
+#g3 {
+  background-color: rgb(189, 185, 194, 0.822);
+  border-radius: 10px;
+  width: 80%;
+}
+
+#gi3 {
+  background-color: rgb(223, 220, 83);
+  width: 10%;
+  border-radius: 10px;
+  animation: barras 1s ease-out forwards;
+
+}
+
+
+@keyframes barras {
+  from {
+    width: 0%;
+  }
+
+  to {
+    width: 10%;
+  }
+}
+
+@keyframes barras2 {
+  from {
+    width: 0%;
+  }
+
+  to {
+    width: 30%;
+  }
+}
+
+.links2{
+background-color: aliceblue;
+margin: 0,6rem;
+margin-top: 1rem;
+margin-bottom: 1rem;
+margin-left: 27rem;
+margin-right: 1rem;
+display: flex;
+justify-content: space-evenly;
+border-radius: 1rem;  
+
+ 
+}
+.links2 a {
+  text-decoration:none ;
+  font-size: 1.5rem;
+  color: rgb(90, 28, 148);
+}
